@@ -1,0 +1,242 @@
+{
+  "results": [
+    {
+      "id": "Feedback 01",
+      "sentiment": "Positive",
+      "topics": [
+        "Product"
+      ],
+      "score": 5,
+      "summary": "Áo khoác vải dày, đường may chắc, form chuẩn như hình"
+    },
+    {
+      "id": "Feedback 02",
+      "sentiment": "Negative",
+      "topics": [
+        "Delivery",
+        "Product"
+      ],
+      "score": 2,
+      "summary": "Giao hàng nhanh nhưng sản phẩm bị móp"
+    },
+    {
+      "id": "Feedback 03",
+      "sentiment": "Negative",
+      "topics": [
+        "System"
+      ],
+      "score": 1,
+      "summary": "App thoát ra khi thanh toán ví điện tử, mất mã giảm giá"
+    },
+    {
+      "id": "Feedback 04",
+      "sentiment": "Neutral",
+      "topics": [
+        "Product",
+        "Delivery"
+      ],
+      "score": 3,
+      "summary": "Sản phẩm tạm ổn so với giá, giao hàng đúng dự kiến"
+    },
+    {
+      "id": "Feedback 05",
+      "sentiment": "Positive",
+      "topics": [
+        "Service",
+        "Delivery",
+        "Product"
+      ],
+      "score": 5,
+      "summary": "Tư vấn nhiệt tình, đóng gói cẩn thận, shipper thân thiện, giày êm"
+    },
+    {
+      "id": "Feedback 06",
+      "sentiment": "Negative",
+      "topics": [
+        "Service"
+      ],
+      "score": 1,
+      "summary": "Shop phản hồi chậm, trả lời cộc lốc, thiếu tôn trọng khách"
+    },
+    {
+      "id": "Feedback 07",
+      "sentiment": "Negative",
+      "topics": [
+        "Delivery",
+        "Product"
+      ],
+      "score": 1,
+      "summary": "Giao hàng trễ một tuần, nhận gạch thay vì tai nghe"
+    },
+    {
+      "id": "Feedback 08",
+      "sentiment": "Neutral",
+      "topics": [
+        "System"
+      ],
+      "score": 3,
+      "summary": "Giao diện app mới hơi lạ, tìm mục đơn mua mất thời gian"
+    },
+    {
+      "id": "Feedback 09",
+      "sentiment": "Invalid",
+      "topics": [
+        "Invalid"
+      ],
+      "score": null,
+      "summary": "Invalid"
+    },
+    {
+      "id": "Feedback 10",
+      "sentiment": "Invalid",
+      "topics": [
+        "Invalid"
+      ],
+      "score": null,
+      "summary": "Invalid"
+    },
+    {
+      "id": "Feedback 11",
+      "sentiment": "Negative",
+      "topics": [
+        "Product",
+        "Service"
+      ],
+      "score": 1,
+      "summary": "Nồi chiên không lên nguồn, tổng đài hẹn đổi trả cả tuần"
+    },
+    {
+      "id": "Feedback 12",
+      "sentiment": "Positive",
+      "topics": [
+        "Delivery"
+      ],
+      "score": 5,
+      "summary": "Shipper dễ thương, hẹn giờ giao tận tay, hàng khô ráo nguyên vẹn"
+    },
+    {
+      "id": "Feedback 13",
+      "sentiment": "Negative",
+      "topics": [
+        "System",
+        "Service"
+      ],
+      "score": 1,
+      "summary": "Hệ thống tự hủy đơn không báo, CSKH đổ lỗi do mạng"
+    },
+    {
+      "id": "Feedback 14",
+      "sentiment": "Positive",
+      "topics": [
+        "System",
+        "Product"
+      ],
+      "score": 5,
+      "summary": "Tìm kiếm bằng hình ảnh chính xác, hàng chính hãng"
+    },
+    {
+      "id": "Feedback 15",
+      "sentiment": "Neutral",
+      "topics": [
+        "Service"
+      ],
+      "score": 3,
+      "summary": "Nhân viên hướng dẫn xuất hóa đơn đỏ đầy đủ, đang chờ kế toán"
+    },
+    {
+      "id": "Feedback 16",
+      "sentiment": "Negative",
+      "topics": [
+        "Delivery"
+      ],
+      "score": 1,
+      "summary": "Shipper không gọi, tự báo giao thành công và để hàng ngoài cổng"
+    },
+    {
+      "id": "Feedback 17",
+      "sentiment": "Positive",
+      "topics": [
+        "Product"
+      ],
+      "score": 5,
+      "summary": "Kem dưỡng ẩm thấm nhanh, không bết rít, da dịu sau 3 ngày"
+    },
+    {
+      "id": "Feedback 18",
+      "sentiment": "Positive",
+      "topics": [
+        "Product",
+        "Delivery"
+      ],
+      "score": 4,
+      "summary": "Sách in đẹp, nội dung hay nhưng giao trễ hơn 2 ngày"
+    },
+    {
+      "id": "Feedback 19",
+      "sentiment": "Negative",
+      "topics": [
+        "System",
+        "Delivery"
+      ],
+      "score": 1,
+      "summary": "App báo còn hàng nhưng sau thanh toán báo hết, giao nhầm màu"
+    },
+    {
+      "id": "Feedback 20",
+      "sentiment": "Invalid",
+      "topics": [
+        "Invalid"
+      ],
+      "score": null,
+      "summary": "Invalid"
+    }
+  ],
+  "statistics": {
+    "total": 20,
+    "valid": 17,
+    "invalid": 3,
+    "by_sentiment": {
+      "Positive": 6,
+      "Neutral": 3,
+      "Negative": 8
+    },
+    "by_topic": {
+      "Product": {
+        "count": 9,
+        "avg_score": 3.44,
+        "sentiment": {
+          "Positive": 5,
+          "Neutral": 1,
+          "Negative": 3
+        }
+      },
+      "Delivery": {
+        "count": 8,
+        "avg_score": 2.75,
+        "sentiment": {
+          "Positive": 3,
+          "Neutral": 1,
+          "Negative": 4
+        }
+      },
+      "Service": {
+        "count": 5,
+        "avg_score": 2.2,
+        "sentiment": {
+          "Positive": 1,
+          "Neutral": 1,
+          "Negative": 3
+        }
+      },
+      "System": {
+        "count": 5,
+        "avg_score": 2.2,
+        "sentiment": {
+          "Positive": 1,
+          "Neutral": 1,
+          "Negative": 3
+        }
+      }
+    }
+  }
+}
